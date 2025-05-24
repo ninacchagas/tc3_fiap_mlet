@@ -45,9 +45,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Clone o repositório e instale as dependências:
 
-```git clone <URL-do-repositório>
-cd <nome-do-diretório>
-pip install -r requirements.txt```
+```git clone <URL-do-repositório>```
+```cd <nome-do-diretório>```
+```pip install -r requirements.txt```
 
    - Certifique-se de configurar corretamente as variáveis de ambiente, como string de conexão com o banco de dados.
 
